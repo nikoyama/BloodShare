@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">BloodShare</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="or">OR</string>
+    <string name="connect_with_facebook">CONNECT WITH FACEBOOK</string>
+    <string name="register">doesn\'t have account ? <b>Register</b></string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="retype">Retype Password</string>
+    <string name="personal">Personal</string>
+    <string name="organization">Organization</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="address">Home Address</string>
+    <string name="location">Default Location</string>
+    <string name="agree">Agree with Terms and Conditions</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="almost_there">Almost There</string>
+    <string name="thank_you">
+        Thank you for registering with us. One more \n
+        Step, you need to check your email \n
+        to active your account
+    </string>
+    <string name="verify">VERIFY</string>
+    <string name="verify_account">Verify your Account</string>
+    <string name="send_email">We have send verification code to your email</string>
+    <string name="enter_code">enter verification code here</string>
+    <string name="send">SEND</string>
+    <string name="resend">doesn\'t get the code?<b>Resend</b></string>
+    <string name="nama">Niko Yama</string>
+    <string name="blood">Blood type : B</string>
+    <string name="blood_give">BLOOD GIVE</string>
+    <string name="blood_received">BLOOD RECEIVED</string>
+    <string name="thanks">THANKS</string>
+    <string name="search_donor">Search Donor</string>
+    <string name="search_donor_near_you">Search donor near you</string>
+    <string name="blood_needed">Blood Needed</string>
+    <string name="_4_users_need_blood">4 Users need blood</string>
+    <string name="message">Message</string>
+    <string name="_5_new_messages">5 New Messages</string>
+    <string name="donor_history">Donor History</string>
+    <string name="_5_gives_2_received">5 Gives, 2 Received</string>
+    <string-array name="blood_type">
+        <item>Blood Type</item>
+        <item>A</item>
+        <item>B</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="reshus">
+        <item>Reshus</item>
+        <item>Positif</item>
+        <item>Negative</item>
+    </string-array>
+    <string-array name="job">
+        <item>Job</item>
+        <item>Dosen</item>
+        <item>Mahasiswa</item>
+    </string-array>
+
+</resources>
